@@ -1,4 +1,4 @@
-## Voting pagg
+## Voting page
 * https://voting-system.libyzxy0.repl.co/vote
 
 ## Results page
